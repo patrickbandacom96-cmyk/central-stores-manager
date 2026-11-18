@@ -1,0 +1,14 @@
+{
+  "name": "Central Stores Manager",
+  "short_name": "Stores",
+  "description": "Track stock in hand and issue items out.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#14212e",
+  "theme_color": "#14212e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
